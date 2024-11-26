@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mark Nashed | Software Developer | Full Stack | Python |
 
-<!--
-**mnashed12/mnashed12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**
+- 💻 I'm a Front-End and Full Stack Developer.
+- 🎓 I have a Master's in Software Development.
+- 🚀 I specialize in Python, JavaScript, and Django.
 
-Here are some ideas to get you started:
+🌟 **What I Do**
+- 🔍 Most recent website [My Website](https:www.subcleaners.com)
+- 📈 Passionate about creating user centric software and improving lives
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Connect with Me**
+- 💼 [LinkedIn](https://linkedin.com/in/mark-nashed-7b7778233/)
+- 📧 [Email](markmnashed@gmail.com.com)
+
+🌟 **My Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnashed12&show_icons=true&theme=radical)
