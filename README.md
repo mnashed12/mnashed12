@@ -1,8 +1,6 @@
 # Mark Nashed | Software Developer | Full Stack | Python
 
 ![Profile Views](https://shields.io/badge/Profile%20Views-100-blue)
-![GitHub Followers](https://shields.io/github/followers/mnashed12?style=social)
-![GitHub Stars](https://shields.io/github/stars/mnashed12?style=social)
 
 🌟 **About Me**
 - 💻 I'm a ![Front-End Developer](https://img.shields.io/badge/Front--End%20Developer-blue)
