@@ -5,6 +5,8 @@
 🌟 **About Me**
 - 💻 I'm a ![Front-End Developer](https://img.shields.io/badge/Front--End%20Developer-blue)
   and ![Full Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-green).
+- 🤖 I also love ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?logo=tensorflow&logoColor=white) 
+  and ![Automation](https://img.shields.io/badge/Automation-yellow?logo=robotframework&logoColor=black).
 - 🎓 I have a Master's in Software Development.
 - 🚀 I specialize in ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white),
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black),
