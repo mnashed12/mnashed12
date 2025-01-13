@@ -14,7 +14,7 @@
 
 🌟 **What I Do**
 - 🔍 Most recent website: [![My Website](https://img.shields.io/badge/My%20Website-Visit-brightgreen)](https://www.subcleaners.com)
-- 📈 Passionate about creating user-centric software and improving lives.
+- 📈 Passionate about creating user-centric software, improving lives, and solving problems.
 
 🌟 **Connect with Me**
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mark-nashed-7b7778233/)
